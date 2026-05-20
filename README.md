@@ -35,6 +35,10 @@ Main data fields include:
 
 ## Visualizations Created
 
+![Project Preview](Picture7.png)
+![Project Preview](Picture8.png)
+![Project Preview](Picture9.png)
+
 ### Pie Charts
 
 Pie charts were used to show the proportion of total immigration to Canada by continent. This helps compare the contribution of different continents to overall immigration.
